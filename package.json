@@ -4,8 +4,10 @@
   "description": "mongo express react node",
   "main": "app.js",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "config": "^3.3.4",
     "express": "^4.17.1",
+    "express-validator": "^6.10.0",
     "mongoose": "^5.11.15"
   },
   "scripts": {
