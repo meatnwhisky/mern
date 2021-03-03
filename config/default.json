@@ -1,5 +1,6 @@
-//config.get to use config
+//config.get to use config 
 {
   "port": "5000",
+  "jwtSecret": "chheerokie4%",
   "mongoUri": "mongodb+srv://amme:DZGhQHbYWDmVNn92@cluster0.edojm.mongodb.net/app?retryWrites=true&w=majority"
 }
